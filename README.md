@@ -33,7 +33,7 @@ This repository contains code and resources to analyze and visualize your ChatGP
 
 ## Example Visualization
 
-![Heatmap Example](chatgpt_usage_heatmap.png)
+![Heatmap Example](https://github.com/kindo-tk/ChatGPT_usage_heatmap/blob/main/usage.jpg)
 
 ---
 
